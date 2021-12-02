@@ -1,0 +1,14 @@
+Tutorial
+
+list command
+- login [name]
+- logout
+- deposit [amount]
+- withdraw [amount]
+- transfer [name reciver] [amount]
+
+How to Run
+1. Open project in Netbeans
+2. Waiting for loading project
+3. Click Button "Run Project" in Netbeans
+4. Enjoy
